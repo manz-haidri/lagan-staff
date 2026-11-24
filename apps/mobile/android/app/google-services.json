@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049281729401",
+    "project_id": "laganstaff-production",
+    "storage_bucket": "laganstaff-production.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049281729401:android:82049d10eab5673019fba2",
+        "android_client_info": {
+          "package_name": "com.laganstaff.lagan_staff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyApiKeyPlaceholderForLaganStaffDevMode"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
